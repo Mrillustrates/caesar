@@ -13,7 +13,7 @@ rot_form = """
     <br>
  <textarea rows="4" cols="50" name="comment">
  </textarea>
- <input type="submit" value = "Rotate it"/>
+ <input type="submit" value = "Rotate text"/>
  </form>
  </body>
  </html>
